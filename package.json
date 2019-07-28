@@ -1,0 +1,22 @@
+{
+  "name": "v-promised",
+  "version": "1.0.0",
+  "description": "make promise as component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://taoche@github.com/taoche/v-promised.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taoche/v-promised/issues"
+  },
+  "homepage": "https://github.com/taoche/v-promised#readme",
+  "dependencies": {
+    "lodash.isempty": "^4.4.0"
+  }
+}
